@@ -6,7 +6,7 @@ To install and run the application locally, follow these steps:
 
 - Clone the repository:
 
-    `git clone https://github.com/Salonee-Jain/IssueTracker.git`
+    `git clone https://github.com/Vishal25082000/IssueTracker.git`
 
 - Install dependencies:`
     ```
